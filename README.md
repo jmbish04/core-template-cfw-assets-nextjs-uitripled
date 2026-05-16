@@ -1,3 +1,4 @@
+[English](./README.md) | [简体中文](./README_zh.md)
 <p align="center">
   <a href="https://github.com/moumen-soliman/uitripled">
     <img width="100" alt="UI TripleD Logo" src="https://iimydr2b8o.ufs.sh/f/Zqn6AViLMoTtl1pW0d6xiLckpa7VobAKthYDjBuwMy6zmGSe" />
