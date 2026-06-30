@@ -10,6 +10,7 @@
     "dev": "npm run generate-scripts && next dev --port 3001",
     "build": "next build",
     "build:full": "npm run generate-scripts && next build",
+    "pages:build": "npm run generate-scripts && npx @cloudflare/next-on-pages",
     "start": "next start",
     "lint": "eslint",
     "format": "prettier --write . && eslint --fix .",
@@ -60,6 +61,7 @@
     "@uitripled/registry": "workspace:*"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.7",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
